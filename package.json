@@ -10,6 +10,9 @@
   "author": "Kiliman <kiliman@gmail.com> (https://kiliman.dev/)",
   "license": "MIT",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "1.10.2",
+    "@typescript-eslint/parser": "1.10.2",
+    "eslint": "5.16.0",
     "parcel-bundler": "1.12.3",
     "typescript": "3.5.2"
   }
