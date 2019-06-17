@@ -10,7 +10,7 @@
     "sourceType": "module"
   },
   "rules": {
-    "no-restricted-globals": ["error", "event", "name", "location"]
+    "prettier/prettier": 0,
   },
   "settings": {
     "react": {
