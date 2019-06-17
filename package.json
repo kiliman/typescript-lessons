@@ -1,0 +1,16 @@
+{
+  "name": "typescript-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kiliman <kiliman@gmail.com> (https://kiliman.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "1.12.3",
+    "typescript": "3.5.2"
+  }
+}
